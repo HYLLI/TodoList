@@ -86,7 +86,7 @@
   }
   
   /* Style the input */
-  input {
+  .form-control {
     margin: 0;
     border: none;
     border-radius: 0;
